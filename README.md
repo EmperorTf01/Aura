@@ -45,18 +45,3 @@ This project is built with:
 ### Prerequisites
 - Node.js (v18+ recommended)
 - npm or yarn
-
-### Installation
-
-```sh
-# Clone the repository
-git clone <YOUR_GIT_URL>
-
-# Navigate to the project directory
-cd <YOUR_PROJECT_NAME>
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
